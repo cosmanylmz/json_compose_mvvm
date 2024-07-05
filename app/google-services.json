@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614354609578",
+    "project_id": "jsoncompose7",
+    "storage_bucket": "jsoncompose7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614354609578:android:e20a7dd701a8030c88f7d3",
+        "android_client_info": {
+          "package_name": "com.example.jsoncompose7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRvTQiAGfw07oaCmABvprwgJ5seva0Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
